@@ -53,23 +53,23 @@
 		
 								LES ETAPES POUR VOIR LA DOCUMENTATION DE L'APPLICATION
 								
-		> Ouvrir le dossier "Livrable 1"
+		> Ouvrir le dossier "Livrable-2"
 		> Ouvrir le repertoire "doc"
 		> Double-cliquer sur le fichier "index"
 		
 								
 								LES ETAPES DE L'EXECUTION DE L'APPLICATION 
 								
-	Pour executer l'application, voici les etapes à suivre :
+	Pour exécuter l'application, voici les étapes à suivre :
 	
 		> Si vous etes dans Windows 10:
 		
-		1- ouvrir le dossier "Livrable 1"
+		1- ouvrir le dossier "Livrable-2"
 		2- Dans la barre de taches, cliquer sur "Fichier", puis "Ouvrir Windows PowerShell" et ensuite "Ouvrir Windows PowerShell en tant qu'administrateur" 
-		3- tapez la commande 'java -jar SystemeScolaire.jar'
+		3- tapez la commande 'java -jar Systeme_Scolaire.jar'
 		
 		> Dans le cas contraire :
 		
 		1- Ouvrir l'invite de commande de votre ordinateur
-		2- Se positioner dans le dossier "Livrable 1" (commande : 'cd [chemin]/[dossier cible]')
-		3- Quand vous etes dans le dossier "Livrable 1", taper la commande 'java -jar SystemeScolaire.jar'
+		2- Se positioner dans le dossier "Livrable-2" (commande : 'cd [chemin]/[dossier cible]')
+		3- Quand vous etes dans le dossier "Livrable-2", tapez la commande 'java -jar Systeme_Scolaire.jar'
